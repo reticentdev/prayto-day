@@ -1,0 +1,4 @@
+theme = 'hugo-theme-relearn'
+baseURL = 'https://prayto.day/'
+languageCode = 'en-us'
+title = 'Pray To.day'

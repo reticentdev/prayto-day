@@ -1,4 +1,14 @@
 theme = 'hugo-theme-relearn'
 baseURL = 'https://prayto.day/'
+# baseURL = 'http://localhost:1313'
 languageCode = 'en-us'
 title = 'Pray To.day'
+
+[params]
+  themeVariant = "neon"
+  disableSearch = false
+  disableSearchIndex = false
+  disableSearchPage = false
+
+[outputs]
+home = [ "HTML", "RSS"]

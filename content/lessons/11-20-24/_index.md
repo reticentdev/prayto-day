@@ -8,7 +8,8 @@ weight = 0
 <h2>Adoro Te Devote</h2>
 {{< /center >}}
 
-{{< video src="/resources/videos/adoro-te-devote.mp4" >}} 
+{{< video src="/resources/videos/adoro-te-devote.mp4" id="adoro-video" >}}
+
 
 {{< center >}}
 <h4>Lyrics</h4>
@@ -16,7 +17,7 @@ weight = 0
 
 {{% expand title="Verse 1" opened="true" %}}
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div id="verse1" style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="flex: 1; max-width: 45%;">
     <h5>Latin</h5>
     <p>1. Adoro te devote, latens deitas,<br>
@@ -38,7 +39,7 @@ weight = 0
 
 {{% expand title="Verse 2" %}}
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div id="verse2" style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="flex: 1; max-width: 45%;">
     <h5>Latin</h5>
     <p>1. Visus, tactus, gustus in te fallitur,<br>
@@ -60,7 +61,7 @@ weight = 0
 
 {{% expand title="Verse 3" %}}
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div id="verse3" style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="flex: 1; max-width: 45%;">
     <h5>Latin</h5>
     <p>1. In Cruce latebat sola Deitas,<br>
@@ -82,7 +83,7 @@ weight = 0
 
 {{% expand title="Verse 4" %}}
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div id="verse4" style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="flex: 1; max-width: 45%;">
     <h5>Latin</h5>
     <p>1. <mark>Plagas, sicut Thomas, non intueor:</mark><br>
@@ -104,7 +105,7 @@ weight = 0
 
 {{% expand title="Verse 5" %}}
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div id="verse5" style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="flex: 1; max-width: 45%;">
     <h5>Latin</h5>
     <p>1. O memoriale mortis Domini,<br>
@@ -126,7 +127,7 @@ weight = 0
 
 {{% expand title="Verse 6" %}}
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div id="verse6" style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="flex: 1; max-width: 45%;">
     <h5>Latin</h5>
     <p>1. <mark>Pie Pelicane, Jesu Domine,</mark><br>
@@ -148,7 +149,7 @@ weight = 0
 
 {{% expand title="Verse 7" %}}
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div id="verse7" style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="flex: 1; max-width: 45%;">
     <h5>Latin</h5>
     <p>1. Jesu, quem velatum nunc aspicio,<br>

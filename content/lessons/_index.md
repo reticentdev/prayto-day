@@ -1,7 +1,7 @@
 +++
 title = "Lessons"
 type = "chapter"
-weight = 1
+weight = 0
 +++
 
-This is a new chapter.
+Welcome to Our Lessons

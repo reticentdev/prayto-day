@@ -8,7 +8,7 @@ weight = 0
 <h2>Adoro Te Devote</h2>
 {{< /center >}}
 
-{{< video src="/resources/videos/adoro-te-devote.mp4" id="adoro-video" >}}
+{{< video src="/resources/videos/adoro-te-devote.mp4" >}}
 
 
 {{< center >}}

@@ -1,6 +1,7 @@
 +++
 date = '2024-11-18T20:21:51-06:00'
 title = 'Doubting Thomas'
+weight = 20
 +++
 
 {{< center >}}
@@ -19,7 +20,7 @@ The Incredulity of St. Thomas by Rembrandt
 **26** Eight days later, his disciples were again in the house, and Thomas was with them. The doors were shut, but Jesus came and stood among them, and said, “Peace be with you.”  
 **27** Then he said to Thomas, “Put your finger here, and see my hands; and put out your hand, and place it in my side; do not be faithless, but believing.”  
 **28** Thomas answered him, “My Lord and my God!”  
-**29** Jesus said to him, “Have you believed because you have seen me? Blessed are those who have not seen and yet believe.”
+**29** Jesus said to him, “Have you believed because you have seen me? ==Blessed are those who have not seen and yet believe.”==
 
 > [!QUESTION]
 > **What can we learn about how God responds to us if we ever struggle to believe in Him?**
@@ -32,4 +33,5 @@ This simple prayer expresses the tension between **faith and doubt**—a tension
 In our struggles to believe, especially in the mystery of the **Eucharist**, we can pray: **"Lord, I believe; help my unbelief."** This prayer invites Jesus to strengthen our trust in His presence, even when we cannot fully perceive it with our senses.
 
 Let this prayer guide us as we approach the **Eucharist** and other mysteries of our faith—trusting that, even in moments of doubt, Jesus will meet us with compassion and help us grow in our belief.
+
 

@@ -8,7 +8,11 @@ weight = 0
 <h2>Adoro Te Devote</h2>
 {{< /center >}}
 
-{{< video src="/resources/videos/adoro-te-devote.mp4" >}}
+<video class="responsive-video" controls>
+  <source src="/videos/adoro-te-devote.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 {{< center >}}
